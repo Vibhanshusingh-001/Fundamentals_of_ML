@@ -8,13 +8,13 @@ ML can predict the weather, estimate travel times, recommend songs, auto-complet
 
 In basic terms, ML is the process of training a piece of software, called a model, to make useful predictions or generate content (like text, images, audio, or video) from data.
 
----
+
 
 ## What is a "model" in machine learning?
 
 A model is a mathematical relationship derived from data that an ML system uses to make predictions.
 
----
+
 
 ## Types of ML Systems
 
@@ -25,19 +25,19 @@ ML systems fall into one or more of the following categories based on how they l
 - Reinforcement learning  
 - Generative AI  
 
----
+
 
 ## Supervised Learning
 
 ### CLAASIFICATION AND REGRESSION
 
----
+
 
 ## Unsupervised Learning
 
 ### Clustering
 
----
+
 
 ## Reinforcement Learning
 
@@ -46,7 +46,7 @@ A reinforcement learning system generates a policy that defines the best strateg
 
 Reinforcement learning is used to train robots to perform tasks, like walking around a room, and software programs like AlphaGo to play the game of Go.
 
----
+
 
 ## Generative AI
 
@@ -60,7 +60,6 @@ For example:
 - A model can take an image as input and create an image and text as output  
 - A model can take an image and text as input and create a video as output  
 
----
 
 ## Generative Model Input–Output Types
 
