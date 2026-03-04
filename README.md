@@ -74,5 +74,4 @@ Examples include:
 - Text-to-code  
 - Text-to-speech  
 - Image and text-to-image
----
 <img width="1614" height="859" alt="Screenshot (791)" src="https://github.com/user-attachments/assets/a010e8df-88df-44a2-b8c0-722f6f35a33e" />
