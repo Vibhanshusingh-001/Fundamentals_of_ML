@@ -1,10 +1,27 @@
 # Feature Engineering
 
+# Do train test split before standard scaling.
 ### Mostly we prefer standardisation.
+### In standardisation mean should be Zero and standard deviation should be 1.
 ### We do normalisation when we know that min and max value of our data 
+
 
 ### We have to transform train and test both after fitting standard scaler on out train data.
 
+```python
+
+from sklearn.preprocessing import StandardScaler
+
+scaler = StandardScaler()
+
+# fit the scaler to the train set, it will learn the parameters
+scaler.fit(X_train)
+
+# transform train and test sets
+X_train_scaled = scaler.transform(X_train)
+X_test_scaled = scaler.transform(X_test)
+
+```
 
 <img width="1500" height="806" alt="Screenshot 2026-05-12 062804" src="https://github.com/user-attachments/assets/37c80ae9-a1f8-4672-b7cf-76c8e7404922" />
 
