@@ -2,7 +2,8 @@
 
 # Do train test split before standard scaling.
 ### Mostly we prefer standardisation.
-### In standardisation mean should be Zero and standard deviation should be 1.
+### In standardisation mean should be Zero and standard deviation should be 1
+### Normalisation is basically --> min max scaling (Transforms values between 0 and 1)
 ### We do normalisation when we know that min and max value of our data 
 
 
@@ -302,7 +303,7 @@ are sensitive to scale.
 
 
 
-## 1. Min-Max Scaling
+## 1. Min-Max Scaling(also called normalisation)
 
 Transforms values between 0 and 1.
 
