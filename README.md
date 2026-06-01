@@ -261,8 +261,6 @@ w = w - \eta \nabla L(w)
 * Dataset is too large to fit in memory
 * Environment changes over time
 
-
-
 ##  Real-world Applications
 
 * Recommendation systems (Netflix, YouTube)
